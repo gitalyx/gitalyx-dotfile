@@ -1,6 +1,7 @@
 ### Reference
 
-![GitHub Logo](https://raw.githubusercontent.com/gitalyx/images_for_website/main/2024-02-04T12%2021%2028%2C151252371%2B02%2000.png)
+![GitHub Logo](https://github.com/gitalyx/gitalyx-dotfile/blob/main/.images/Screenshot%20from%202024-04-19%2021-25-30.png)
+![Github Logo](https://github.com/gitalyx/gitalyx-dotfile/blob/main/.images/Screenshot%20from%202024-04-19%2021-26-29.png)
 
 ### Why
 
