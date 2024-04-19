@@ -1,7 +1,8 @@
-### Prerequisites
+### Why
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+This is my dotfiles from configs to scripts the wm is awesome wm it is kinda beautiful with over 300 wallpapers from distrotube.
+
+* git
   ```sh
   npm install npm@latest -g
   ```
