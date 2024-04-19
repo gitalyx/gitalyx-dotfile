@@ -1,3 +1,7 @@
+### Reference
+
+![GitHub Logo](https://raw.githubusercontent.com/gitalyx/images_for_website/main/2024-02-04T12%2021%2028%2C151252371%2B02%2000.png)
+
 ### Why
 
 This is my dotfiles from configs to scripts the wm is awesome wm it is kinda beautiful with over 300 wallpapers from distrotube.
