@@ -5,5 +5,5 @@ This is my dotfiles from configs to scripts the wm is awesome wm it is kinda bea
 ### dependencies
 
   ```sh
-  awesome feh polybar rofi
+  awesome feh polybar rofi neovim neofetch
   ```
