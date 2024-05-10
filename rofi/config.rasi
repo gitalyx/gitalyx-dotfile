@@ -99,3 +99,10 @@ message {
     background-color: red;
     border: 0px solid;
 }
+
+reboot {
+  enabled: true;
+  comand: "systemctl reboot";
+  display-name: "Reboot";
+  modi: "reboot";
+}
