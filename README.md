@@ -22,5 +22,11 @@ After you are done copy what your want from my config to yours config
 
 ### Hotkeys
 
-<h5> Reboot</h5> = super+r
-
+<h5> Reboot = super+r </h5>
+<h5> Power off = super+n </h5>
+<h5> Alacritty = super+a </h5>
+<h5> Floorp = super+z </h5>
+<h5> Pcmanfm = super+f </h5>
+<h5> Kill apps = super+q </h5>
+<h5> Log out = super+m</h5>
+<h5> Rofi = super+d </h5>
