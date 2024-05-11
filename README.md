@@ -19,3 +19,8 @@ This is my dotfiles from configs to scripts the wm is hyprland it is kinda beaut
   ```
 
 After you are done copy what your want from my config to yours config
+
+### Hotkeys
+
+<h5> Reboot</h5> > super+r
+
