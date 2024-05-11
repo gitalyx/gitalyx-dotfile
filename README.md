@@ -22,5 +22,5 @@ After you are done copy what your want from my config to yours config
 
 ### Hotkeys
 
-<h5> Reboot</h5><br>=super+r
+<h5> Reboot</h5> = super+r
 
