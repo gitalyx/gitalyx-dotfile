@@ -13,6 +13,8 @@ echo
 
 sudo cp configuration.nix /etc/nixos/
 
+sudo nixos-rebuild switch
+
 echo
     read -n 1 -s -r -p "Press 'y' to continue or 'n' to exit: " key
     echo
