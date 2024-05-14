@@ -13,7 +13,7 @@ This is my dotfiles from configs to scripts the wm is hyprland it is kinda beaut
   git clone https://github.com/gitalyx/gitalyx-dotfile.git
   ```
 
-<h1>On arch linux.</h1>
+<h3>On arch linux.</h3>
 
 ```sh
 cd gitalyx-dotfile
@@ -21,7 +21,7 @@ chmod +x arch_install.sh
 ./arch_install.sh
 ```
 
-<h1>On nixos.</h1>
+<h3>On nixos.</h3>
 
 ```sh
 cd gitalyx-dotfile
