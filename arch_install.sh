@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Do you want to install: Hyprland, Polybar, Waybar, Swaybg Alacritty, Pcmanfm, Rofi, Neovim and Neofetch?"
+echo "Do you want to install: Hyprland, papirus-icon-theme, Waybar, Swaybg Alacritty, Pcmanfm, Rofi, Neovim and Neofetch?"
 
 echo
     read -n 1 -s -r -p "Press 'y' to continue or 'n' to exit: " key
@@ -12,7 +12,7 @@ echo
     esac
 
 sudo pacman -Syu 
-sudo pacman -S hyprland polybar waybar alacritty rofi neovim neofetch pcmanfm swaybg
+sudo pacman -S hyprland waybar alacritty rofi neovim neofetch pcmanfm swaybg papirus-icon-theme
 
 
 echo "Do you want to copy the configurations to ~/.config and rewrite .bashrc"
