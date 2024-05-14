@@ -2,8 +2,6 @@
 
 echo "Do you want to install: Hyprland, Polybar, Waybar, Swaybg Alacritty, Pcmanfm, Rofi, Neovim and Neofetch?"
 
-echo "No(n) or Yes(y):"
-
 echo
     read -n 1 -s -r -p "Press 'y' to continue or 'n' to exit: " key
     echo
