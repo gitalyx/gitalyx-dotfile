@@ -24,16 +24,16 @@ echo
         *) echo "Invalid input. Press 'y' to continue or 'n' to exit."; pause;;
     esac
 
-cp alacritty ~/.config/
-cp gtk-3.0 ~/.config/
-cp hypr ~/.config/
-cp neofetch ~/.config/
-cp nvim ~/.config/
-cp pcman/default ~/.config/
-cp rofi ~/.config/
-cp swaybg ~/.config/
-cp wallpapers ~/.config/
-cp .bashrc ~/
+cp -r alacritty ~/.config/
+cp -r gtk-3.0 ~/.config/
+cp -r hypr ~/.config/
+cp -r neofetch ~/.config/
+cp -r nvim ~/.config/
+cp -r pcman/default ~/.config/
+cp -r rofi ~/.config/
+cp -r swaybg ~/.config/
+cp -r wallpapers ~/.config/
+cp -r .bashrc ~/
 
 echo "Setup completed successfully."
 
