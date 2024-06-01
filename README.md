@@ -11,22 +11,16 @@ This is my dotfiles from configs to scripts the wm is hyprland it is kinda beaut
 
   ```sh
   git clone https://github.com/gitalyx/gitalyx-dotfile.git
+  cd gitalyx-dotfile
+  chmod +x install.sh
   ```
-
-<h3>On arch linux.</h3>
-
+### Running the install.sh on Arch linux and Fedora
 ```sh
-cd gitalyx-dotfile
-chmod +x arch_install.sh
-./arch_install.sh
+./install.sh
 ```
-
-<h3>On nixos.</h3>
-
+### Running the install.sh on Nixos
 ```sh
-cd gitalyx-dotfile
-chmod +x arch_install.sh
-bash nix_install.sh
+bash ./install.sh
 ```
 
 ### Hotkeys
