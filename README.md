@@ -1,7 +1,7 @@
 ### Reference
 
-![GitHub Logo](https://github.com/gitalyx/gitalyx-dotfile/blob/main/.images/screenshot2.png)
-![Github Logo](https://github.com/gitalyx/gitalyx-dotfile/blob/main/.images/screenshot.png)
+![GitHub Logo](https://github.com/gitalyx/gitalyx-dotfile/blob/main/.images/w.png)
+![Github Logo](https://github.com/gitalyx/gitalyx-dotfile/blob/main/.images/h.png)
 
 ### Why
 
@@ -13,15 +13,8 @@ This is my dotfiles from configs to scripts the wm is hyprland it is kinda beaut
   git clone https://github.com/gitalyx/gitalyx-dotfile.git
   cd gitalyx-dotfile
   chmod +x install.sh
+  bash install.sh
   ```
-### Running the install.sh on Arch linux and Fedora
-```sh
-./install.sh
-```
-### Running the install.sh on Nixos
-```sh
-bash ./install.sh
-```
 
 ### Hotkeys
 
