@@ -1,6 +1,9 @@
 ### Reference
 
+### Sway
 ![GitHub Logo](https://github.com/gitalyx/gitalyx-dotfile/blob/main/.images/w.png)
+
+### Awesome
 ![Github Logo](https://github.com/gitalyx/gitalyx-dotfile/blob/main/.images/h.png)
 
 ### Why
