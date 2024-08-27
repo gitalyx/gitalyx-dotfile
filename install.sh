@@ -11,12 +11,12 @@ case $choice in
     1)
         echo "Installing apps for Arch Linux..."
         sudo pacman -Syu
-        sudo pacman -S  swaybg hyprland waybar alacritty rofi neovim neofetch pcmanfm papirus-icon-theme
+        sudo pacman -S  swaybg sway alacritty rofi neovim fastfetch pcmanfm papirus-icon-theme
         echo "Copying dotfiles..."
         cp -r alacritty ~/.config/
         cp -r gtk-3.0 ~/.config/
-        cp -r hypr ~/.config/
-        cp -r neofetch ~/.config/
+        cp -r sway ~/.config/
+        cp -r fastfetch ~/.config/
         cp -r nvim ~/.config/
         cp -r pcmanfm ~/.config/
         cp -r rofi ~/.config/
@@ -31,8 +31,8 @@ case $choice in
         echo "Copying dotfiles..."
         cp -r alacritty ~/.config/
         cp -r gtk-3.0 ~/.config/
-        cp -r hypr ~/.config/
-        cp -r neofetch ~/.config/
+        cp -r sway ~/.config/
+        cp -r fastfetch ~/.config/
         cp -r nvim ~/.config/
         cp -r pcmanfm ~/.config/
         cp -r rofi ~/.config/
@@ -44,12 +44,12 @@ case $choice in
     3)
         echo "Installing apps for Fedora..."
         sudo dnf update
-        sudo dnf install swaybg hyprland waybar alacritty rofi neovim neofetch pcmanfm papirus-icon-theme
+        sudo dnf install swaybg sway alacritty rofi neovim fastfetch pcmanfm papirus-icon-theme
         echo "Copying dotfiles..."
         cp -r alacritty ~/.config/
         cp -r gtk-3.0 ~/.config/
-        cp -r hypr ~/.config/
-        cp -r neofetch ~/.config/
+        cp -r sway ~/.config/
+        cp -r fastfetch ~/.config/
         cp -r nvim ~/.config/
         cp -r pcmanfm ~/.config/
         cp -r rofi ~/.config/
