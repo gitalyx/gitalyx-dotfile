@@ -97,4 +97,4 @@ alias ll='ls -lah'
 PS1="$color_green_black[\u$color_yellow_green$separator$color_yellow_black@\h$color_red_yellow $separator$color_red_black/\W]$color_black_red$separator$color_reset"
 
 
-neofetch
+fastfetch
