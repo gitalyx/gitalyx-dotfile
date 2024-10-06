@@ -11,7 +11,8 @@ case $choice in
     1)
         echo "Installing apps for Arch Linux..."
         sudo pacman -Syu
-        sudo pacman -S  swaybg sway alacritty rofi neovim fastfetch pcmanfm papirus-icon-theme
+        sudo pacman -S  swaybg sway alacritty rofi neovim fastfetch pcmanfm papirus-icon-theme lightdm lightdm-gtk-greeter
+        sudo systemctl enable lightdm
         echo "Copying dotfiles..."
         cp -r alacritty ~/.config/
         cp -r gtk-3.0 ~/.config/
@@ -39,6 +40,8 @@ case $choice in
         cp -r swaybg ~/.config
         cp -r wallpapers ~/.config
         cp -r .bashrc ~/
+        echo "updating nixos"
+        sudo nixos-rebuild switch
         echo "Setup finish succesfuly"
         ;;
     3)
