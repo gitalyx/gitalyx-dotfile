@@ -1,7 +1,7 @@
 ### Reference
 
 ### Sway
-![GitHub Logo](https://github.com/gitalyx/gitalyx-dotfile/blob/main/.images/w.png)
+![GitHub Logo](https://github.com/gitalyx/gitalyx-dotfile/blob/main/.images/1.png)
 
 ### Why
 
